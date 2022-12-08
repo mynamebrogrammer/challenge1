@@ -29,3 +29,5 @@ Here is the *[Deployed Application](https://mynamebrogrammer.github.io/challenge
 
 This is what it looks like:
 ![screenshot_1](https://user-images.githubusercontent.com/79487250/206564122-328cbe90-a979-46c6-8c91-a74a22c5e8d9.png)
+
+![screenshot_2](https://user-images.githubusercontent.com/79487250/206567835-61c0c622-a4b0-449c-b8ac-982020dd641f.png)
