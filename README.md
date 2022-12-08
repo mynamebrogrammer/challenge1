@@ -27,5 +27,5 @@
 
 Here is the *[Deployed Application](https://mynamebrogrammer.github.io/challenge1/)*.
 
-
+This is what it looks like:
 ![screenshot_1](https://user-images.githubusercontent.com/79487250/206564122-328cbe90-a979-46c6-8c91-a74a22c5e8d9.png)
