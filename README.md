@@ -5,7 +5,7 @@
 2. What accessibility standards are and what should be met.
 3. Inspecting a webpage and starting to identify HTML/CSS lingo as well as potential errors/improvements.
 
-## Description :This challenge is an "On-The-Job-Ticket" that provided a starter code that was modified according to the challenges requirements below:
+## This challenge is an "On-The-Job-Ticket" that provided a starter code that was modified according to the challenges requirements below:
 
 ## User Story
 - AS A marketing agency
