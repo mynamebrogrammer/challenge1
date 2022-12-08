@@ -24,3 +24,4 @@
 - THEN they fall in sequential order
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
+![screenshot_1](https://user-images.githubusercontent.com/79487250/206564122-328cbe90-a979-46c6-8c91-a74a22c5e8d9.png)
